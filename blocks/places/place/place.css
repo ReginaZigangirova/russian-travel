@@ -1,0 +1,32 @@
+.place {
+    max-width: 984px;
+    width: 100%;
+    margin: 0 148px 0;
+    padding-top: 92px;
+}
+
+@media screen and (max-width: 1120px) {
+    .place {
+        max-width: 928px;
+        width: 98%;
+        margin: 0 48px 0;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .place {
+        max-width: 720px;
+        width: 94%;
+        margin: 0 24px 0;
+        padding-top: 88px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .place {
+        max-width: 320px;
+        width: 98%;
+        margin: 0;
+        padding-top: 64px;
+    }
+}

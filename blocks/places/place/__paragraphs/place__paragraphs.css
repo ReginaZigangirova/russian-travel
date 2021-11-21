@@ -1,0 +1,10 @@
+.place__paragraphs {
+    justify-content: flex-start;
+    margin: 0;
+}
+
+@media screen and (max-width: 540px) {
+    .place__paragraphs {
+        margin: 0 16px 0;
+    }
+}

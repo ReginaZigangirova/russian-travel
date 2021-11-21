@@ -1,0 +1,6 @@
+.wrapper {
+    background-color: #2A2C2F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
