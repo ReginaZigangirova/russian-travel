@@ -1,0 +1,8 @@
+.intro__list-item {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 18px;
+    list-style-type: none;
+    align-items: flex-start;
+}
