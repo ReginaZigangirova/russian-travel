@@ -3,6 +3,7 @@
     line-height: 28px;
     color: #FFFFFF;
     margin-right: 18px;
+    text-decoration: none;
 }
 
 .header__lang-link:last-child {

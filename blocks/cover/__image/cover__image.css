@@ -1,0 +1,7 @@
+.cover__image {
+    object-fit: contain;
+    max-width: 100%;
+    z-index: 0;
+    grid-column: 1/-1;
+    grid-row: 1/-1;
+}

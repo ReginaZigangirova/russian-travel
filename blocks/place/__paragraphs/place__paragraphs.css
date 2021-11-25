@@ -7,7 +7,13 @@
     color: #FFFFFF;
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 600px) {
+    .place__paragraphs {
+        margin-top: 32px;
+    }
+}
+
+@media screen and (max-width: 320px) {
     .place__paragraphs {
         margin: 32px 16px 0;
     }
