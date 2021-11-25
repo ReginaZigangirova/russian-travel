@@ -1,17 +1,18 @@
 .cover__subtittle {
+    padding-top: 32px;
     max-width: 360px;
     font-size: 18px;
     line-height: 22px;
     text-align: center;
-    z-index: 1;
-    margin: 32px 0 0 0;
+    margin: auto;
+    width: 100%;
 }
 
 @media screen and (max-width: 540px) {
     .cover__subtittle {
         font-size: 14px;
         line-height: 16px;
-        margin: 16px 0 0 0;
+        padding-top: 16px;
         max-width: 288px;
     }
 }

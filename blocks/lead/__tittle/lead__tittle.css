@@ -8,7 +8,27 @@
     color: #ffffff;
 }
 
-@media screen and (max-width:540px) {
+@media screen and (max-width: 750px) {
+    .lead__tittle {
+        font-size: 80px;
+        max-width: 90%;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .lead__tittle {
+        font-size: 60px;
+    }
+}
+
+@media screen and (max-width: 470px) {
+    .lead__tittle {
+        line-height: 50px;
+        font-size: 45px;
+    }
+}
+
+@media screen and (max-width:350px) {
     .lead__tittle {
         max-width: 288px;
         font-size: 40px;

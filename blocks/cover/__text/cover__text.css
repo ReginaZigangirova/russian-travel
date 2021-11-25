@@ -1,0 +1,21 @@
+.cover__text {
+    margin: auto;
+    z-index: 1;
+    grid-column: 1/-1;
+    grid-row: 1/-1;
+    align-self: center;
+    justify-self: center;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 960px) {
+    .cover__text {
+        max-width: 510px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .cover__text {
+        max-width: 288px;
+    }
+}
