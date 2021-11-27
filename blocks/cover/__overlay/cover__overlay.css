@@ -6,6 +6,6 @@
     grid-column: 1/-1;
 }
 
-.cover__overlay:hover {
+.cover:hover .cover__overlay {
     opacity: 0.8;
 }
