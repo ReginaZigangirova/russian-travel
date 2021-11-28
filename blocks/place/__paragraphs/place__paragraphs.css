@@ -7,13 +7,6 @@
     color: #FFFFFF;
 }
 
-@media screen and (max-width: 960px) {
-    .place__paragraphs {
-        font-size: 18px;
-        line-height: 163%;
-    }
-}
-
 @media screen and (max-width: 600px) {
     .place__paragraphs {
         margin-top: 32px;
